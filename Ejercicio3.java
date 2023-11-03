@@ -10,7 +10,7 @@ public class Ejercicio3 {
         int fila = 0;
 
 
-        if (numero % 2 != 0) {
+        if (numero % 2 != 0)  {
 
 
             for (fila = 1; fila <= numero; fila++) {
